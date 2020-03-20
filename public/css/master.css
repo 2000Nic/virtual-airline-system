@@ -1,0 +1,97 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+        scroll-behavior: smooth;
+    }
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100%;
+  height: 100%;
+
+  background-image: url("/public/img/main-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container h1 {
+  font-size: 5em;
+  font-family: Verdana;
+  color: white;
+  padding-top: 7.5%;
+  padding-left: 5%;
+  text-shadow: 1px 1px 5px grey;
+}
+
+.join {
+  width: 100%;
+  height: 50%;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 167, 209, 1);
+}
+
+.join h2 {
+  font-size: 3em;
+  margin-bottom: 2%;
+  margin-top: 5%;
+  padding-top: 4.5%;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
+.join p {
+  font-size: 1em;
+  margin-bottom: 2%;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
+.reg {
+  width: 200px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 15px;
+  color: white;
+  margin-right: 25px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 1.25em;
+  margin-top: 10%;
+}
+
+.reg a {
+  color: rgba(0, 167, 209, 1);
+  text-decoration: none;
+}
+
+.footer {
+  background-color: rgba(0, 167, 209, 1);
+  color: white;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  height: 10%;
+  width: 100%;
+  font-size: 1.1em;
+}
+
+.footer p {
+  text-align: center;
+  padding-top: 1%;
+}

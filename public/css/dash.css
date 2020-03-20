@@ -1,0 +1,88 @@
+.green.filepirep {
+	color: green;
+}
+
+.green.green {
+	color: green;
+}
+
+.filepirep {
+  width: 100%;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 167, 209, 1);
+  padding-bottom: 5%;
+}
+
+.filepirep h2 {
+  font-size: 3em;
+  margin-bottom: 2%;
+  margin-top: 5%;
+  padding-top: 4.5%;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
+.filepirep p {
+  font-size: 1em;
+  margin-bottom: 2%;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+.pirep {
+  margin-left: 35%;
+}
+
+.filepirep form table {
+  width: 50%;
+}
+
+.filepirep form table tr {
+  width: 100%;
+}
+
+.filepirep form table td {
+  text-align: left;
+  width: 50%;
+}
+
+.data {
+  text-align: right;
+}
+
+.filepirep input {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 15px;
+  border: 1px solid white;
+  color: white;
+  padding-left: 10px;
+  background-color: rgba(0, 167, 209, 1);
+  margin-bottom: 2%;
+}
+
+.filepirep input[type="time"] {
+  width: 50%;
+}
+
+.filepirep input[type="submit"] {
+  width: 100%;
+  background-color: white;
+  color: rgba(0, 167, 209, 1);
+  font-size: 1.2em;
+}
+
+
+.red {
+  color: red;
+}

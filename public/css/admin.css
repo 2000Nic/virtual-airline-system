@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  padding-top:6%;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 0.8em;
+}
+
+td, th {
+  text-align: center;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  border-left: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

@@ -1,0 +1,54 @@
+.stats {
+  width: 100%;
+  font-family: Verdana;
+  color: black;
+  text-align: center;
+}
+
+.stats h2 {
+  font-size: 3em;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.widget {
+  list-style-type: none;
+  left: 50%;
+  width: 100%;
+
+}
+
+.widget li {
+  display: inline-block;
+  text-align: center;
+}
+
+.stat {
+  height: 20%;
+  width: 200px;
+  background-color: rgba(0, 167, 209, 1);
+  border: 1px solid rgba(0, 167, 209, 1);
+  border-radius: 15px;
+  color: white;
+  margin-right: 25px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-bottom: 25px;
+  margin-top: 35px;
+}
+
+.stat a {
+  color: white;
+}
+
+i {
+  font-size: 2em;
+  padding-bottom: 10px;
+}
+
+.dash-stats {
+  height: 100%;
+}
